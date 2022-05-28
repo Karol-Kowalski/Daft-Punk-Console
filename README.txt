@@ -1,0 +1,1 @@
+This mini project is adapatation of Wes Bos vanillaJS project. Have fun to play music with Daft Punk.
